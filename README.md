@@ -1,4 +1,5 @@
 # High Performance project
+## Parallel processing
 
 Through the simultaneous execution of several data processing operations, parallel processing helps computer systems operate with greater efficiency. But how does it work? In this project, we will discuss in detail how it works and what it does. 
 
